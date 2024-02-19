@@ -1,0 +1,9 @@
+# Archivo 3
+
+Lenguajes de programación
+
+- Python: Con una sintaxis clara y legible, es ampliamente utilizado en una variedad de campos, incluyendo desarrollo web, análisis de datos, inteligencia artificial, aprendizaje automático y automatización de tareas.
+
+- JavaScript: Es el lenguaje principal para el desarrollo web, permitiendo la creación de aplicaciones web dinámicas y ricas en funcionalidades. También es utilizado en entornos de servidor (Node.js) y en desarrollo de aplicaciones móviles (React Native, Ionic).
+
+- Java: Es un lenguaje de programación popular utilizado en una amplia gama de aplicaciones, desde desarrollo de aplicaciones móviles hasta desarrollo de sistemas empresariales. Es conocido por su portabilidad y su uso en la programación orientada a objetos.
