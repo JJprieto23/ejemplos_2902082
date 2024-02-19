@@ -1,0 +1,6 @@
+# Archivo 2
+
+Historias
+
+El Programador y el Bug:
+En una noche oscura, un programador trabajaba incansablemente en un proyecto crítico. De repente, se encontró con un bug que parecía imposible de encontrar. Después de horas de búsqueda, finalmente lo descubrió: una coma que se había escapado de lugar en una línea de código. Con un simple ajuste, el bug desapareció y el programa funcionó sin problemas. La lección aprendida: en la programación, a veces los errores más pequeños pueden tener las consecuencias más grandes.
