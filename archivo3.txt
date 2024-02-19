@@ -2,8 +2,8 @@
 
 Lenguajes de programación
 
-- Swift: Desarrollado por Apple, es el lenguaje principal para el desarrollo de aplicaciones iOS y macOS. Ofrece un rendimiento rápido y una sintaxis moderna.
+- Go (o Golang): Desarrollado por Google, Go es un lenguaje de programación de código abierto que se destaca por su eficiencia en la concurrencia y su rendimiento. Es ampliamente utilizado en el desarrollo de sistemas distribuidos, aplicaciones de servidor y software de infraestructura.
 
-- Ruby: Conocido por su elegancia y productividad, Ruby es utilizado principalmente en el desarrollo web a través del framework Ruby on Rails. Es un lenguaje de scripting dinámico y de alto nivel.
+- TypeScript: Es un superconjunto tipado de JavaScript desarrollado por Microsoft que añade características de tipado estático al código JavaScript. TypeScript es utilizado en el desarrollo de aplicaciones web de gran escala, especialmente en proyectos Angular.
 
-- SQL: Aunque no es un lenguaje de programación en el sentido tradicional, es esencial para el manejo de bases de datos relacionales. Se utiliza para realizar consultas, actualizaciones y administración de bases de datos.
+- Rust: Es un lenguaje de programación de sistemas desarrollado por Mozilla que se centra en la seguridad, el rendimiento y la concurrencia. Rust es utilizado en aplicaciones donde se requiere un alto nivel de control sobre los recursos de hardware, como sistemas operativos, motores de juegos y sistemas embebidos.

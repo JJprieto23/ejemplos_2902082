@@ -2,8 +2,8 @@
 
 Consejos de programación:
 
-- Sigue principios de diseño sólidos: Familiarízate con principios de diseño como SOLID (Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion) y aplica estos principios en tu código para mejorar su diseño y flexibilidad.
+- Prioriza la seguridad: Presta atención a la seguridad de tu aplicación desde el inicio del desarrollo. Implementa buenas prácticas de seguridad, como la validación de entrada de datos, la protección contra ataques de inyección (como SQL injection y XSS), y la gestión adecuada de permisos y credenciales.
 
-- Practica la revisión de código: Fomenta la revisión de código entre tu equipo de desarrollo. Revisar el código de otros y recibir retroalimentación sobre el tuyo propio ayudará a identificar errores, mejorar las prácticas de codificación y promover el aprendizaje colaborativo.
+Optimiza el rendimiento: Mantén un ojo en el rendimiento de tu aplicación y optimiza el código y la arquitectura para garantizar una experiencia de usuario fluida y receptiva. Identifica y soluciona cuellos de botella, utiliza técnicas de caché y minimiza el uso de recursos para mejorar el rendimiento general.
 
-- Aprende constantemente: Mantente al tanto de las tendencias, tecnologías y mejores prácticas en el desarrollo de software. Dedica tiempo a aprender nuevas habilidades, participa en comunidades de desarrollo y busca oportunidades para mejorar continuamente como desarrollador de software.
+Fomenta la colaboración: Promueve una cultura de colaboración dentro de tu equipo de desarrollo. Facilita la comunicación abierta y transparente, fomenta la colaboración en el diseño y la toma de decisiones, y celebra los logros colectivos. La colaboración eficaz contribuye a un ambiente de trabajo positivo y a la entrega exitosa de proyectos de software.
