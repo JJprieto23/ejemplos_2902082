@@ -2,8 +2,8 @@
 
 Lenguajes de programación
 
-- C++: Es un lenguaje de programación de propósito general ampliamente utilizado en el desarrollo de sistemas, juegos, software de alto rendimiento y aplicaciones de escritorio. Es una extensión del lenguaje C con características de programación orientada a objetos.
+- Swift: Desarrollado por Apple, es el lenguaje principal para el desarrollo de aplicaciones iOS y macOS. Ofrece un rendimiento rápido y una sintaxis moderna.
 
-- C#: Desarrollado por Microsoft, es un lenguaje de programación que se utiliza principalmente para el desarrollo de aplicaciones de escritorio de Windows, aplicaciones web y juegos a través de la plataforma Unity.
+- Ruby: Conocido por su elegancia y productividad, Ruby es utilizado principalmente en el desarrollo web a través del framework Ruby on Rails. Es un lenguaje de scripting dinámico y de alto nivel.
 
-- PHP: Es un lenguaje de programación ampliamente utilizado para el desarrollo de sitios web dinámicos y aplicaciones web. Es especialmente conocido por ser el lenguaje principal para la creación de sitios web basados en WordPress.
+- SQL: Aunque no es un lenguaje de programación en el sentido tradicional, es esencial para el manejo de bases de datos relacionales. Se utiliza para realizar consultas, actualizaciones y administración de bases de datos.

@@ -2,8 +2,8 @@
 
 Consejos de programación:
 
-- Realiza pruebas: Implementa pruebas unitarias, de integración y de aceptación para validar el funcionamiento de tu código. Las pruebas automatizadas te ayudarán a detectar y corregir errores de manera temprana, garantizando la calidad del software.
+- Sigue principios de diseño sólidos: Familiarízate con principios de diseño como SOLID (Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion) y aplica estos principios en tu código para mejorar su diseño y flexibilidad.
 
-- Refactoriza regularmente: Dedica tiempo a mejorar la estructura y el diseño de tu código mediante la refactorización. Elimina duplicación, simplifica la lógica y mejora la eficiencia para mantener un código limpio y eficaz a lo largo del tiempo.
+- Practica la revisión de código: Fomenta la revisión de código entre tu equipo de desarrollo. Revisar el código de otros y recibir retroalimentación sobre el tuyo propio ayudará a identificar errores, mejorar las prácticas de codificación y promover el aprendizaje colaborativo.
 
-- Sé modular y escalable: Diseña tu software de manera modular, dividiéndolo en componentes pequeños y reutilizables. Esto facilitará su mantenimiento y permitirá escalar el sistema según sea necesario en el futuro.
+- Aprende constantemente: Mantente al tanto de las tendencias, tecnologías y mejores prácticas en el desarrollo de software. Dedica tiempo a aprender nuevas habilidades, participa en comunidades de desarrollo y busca oportunidades para mejorar continuamente como desarrollador de software.
