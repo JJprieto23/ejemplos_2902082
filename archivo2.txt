@@ -2,5 +2,5 @@
 
 Historias
 
-El Programador y el Bug:
-En una noche oscura, un programador trabajaba incansablemente en un proyecto crítico. De repente, se encontró con un bug que parecía imposible de encontrar. Después de horas de búsqueda, finalmente lo descubrió: una coma que se había escapado de lugar en una línea de código. Con un simple ajuste, el bug desapareció y el programa funcionó sin problemas. La lección aprendida: en la programación, a veces los errores más pequeños pueden tener las consecuencias más grandes.
+El Código Mágico:
+Había una vez un programador talentoso que desarrollaba un software revolucionario. Después de semanas de arduo trabajo, finalmente escribió el código que necesitaba. Pero cuando lo ejecutó, algo extraño sucedió: el programa no solo funcionó, ¡sino que también resolvió otros problemas no relacionados! Descubrió que su código contenía una solución ingeniosa que era aplicable en varios contextos. Desde entonces, aquel código se convirtió en un ejemplo legendario de reutilización y versatilidad.

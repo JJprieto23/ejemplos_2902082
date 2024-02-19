@@ -2,8 +2,8 @@
 
 Lenguajes de programación
 
-- Python: Con una sintaxis clara y legible, es ampliamente utilizado en una variedad de campos, incluyendo desarrollo web, análisis de datos, inteligencia artificial, aprendizaje automático y automatización de tareas.
+- C++: Es un lenguaje de programación de propósito general ampliamente utilizado en el desarrollo de sistemas, juegos, software de alto rendimiento y aplicaciones de escritorio. Es una extensión del lenguaje C con características de programación orientada a objetos.
 
-- JavaScript: Es el lenguaje principal para el desarrollo web, permitiendo la creación de aplicaciones web dinámicas y ricas en funcionalidades. También es utilizado en entornos de servidor (Node.js) y en desarrollo de aplicaciones móviles (React Native, Ionic).
+- C#: Desarrollado por Microsoft, es un lenguaje de programación que se utiliza principalmente para el desarrollo de aplicaciones de escritorio de Windows, aplicaciones web y juegos a través de la plataforma Unity.
 
-- Java: Es un lenguaje de programación popular utilizado en una amplia gama de aplicaciones, desde desarrollo de aplicaciones móviles hasta desarrollo de sistemas empresariales. Es conocido por su portabilidad y su uso en la programación orientada a objetos.
+- PHP: Es un lenguaje de programación ampliamente utilizado para el desarrollo de sitios web dinámicos y aplicaciones web. Es especialmente conocido por ser el lenguaje principal para la creación de sitios web basados en WordPress.
