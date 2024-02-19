@@ -1,0 +1,9 @@
+# Archivo 1
+
+Consejos de programación:
+
+- Planifica antes de codificar: Antes de comenzar a escribir código, dedica tiempo a planificar y diseñar tu solución. Define los requisitos, la arquitectura y la estructura del proyecto para evitar problemas más adelante.
+
+- Utiliza control de versiones: Utiliza herramientas como Git para gestionar el control de versiones de tu código. Esto te permitirá mantener un historial de cambios, colaborar con otros desarrolladores y revertir a versiones anteriores si es necesario.
+
+- Escribe código limpio: Prioriza la legibilidad y la mantenibilidad del código. Sigue convenciones de estilo y nomenclatura, y asegúrate de que tu código esté bien documentado. Esto facilitará la comprensión y el mantenimiento del código por parte de otros desarrolladores.
